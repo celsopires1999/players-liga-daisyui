@@ -28,7 +28,11 @@
                 "humao.rest-client",
                 "firsttris.vscode-jest-runner",
                 "esbenp.prettier-vscode",
-                "eamodio.gitlens"
+                "eamodio.gitlens",
+                "bradlc.vscode-tailwindcss",
+                "dbaeumer.vscode-eslint",
+                "prisma.prisma",
+                "vivaxy.vscode-conventional-commits"
             ]
         }
     }
